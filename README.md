@@ -1,3 +1,3 @@
-![alt text][logo]
+![Pushin P][gif]
 
-[logo]: https://camo.githubusercontent.com/04a7aadd02d2b63e8bb874583ecccfc53cb5de906acc686df0ac5a2374707772/68747470733a2f2f63646e2e646973636f72646170702e636f6d2f656d6f6a69732f3734353335343532353935383939363133382e6769663f763d31.gif "Pushin P"
+[gif]: https://cdn.discordapp.com/emojis/745354525958996138.gif "Pushin P"
