@@ -1,4 +1,4 @@
 # Mood:
-## ![Pushin P][gif] ![Pushin P][gif] ![Pushin P][gif] ![Pushin P][gif] ![Pushin P][gif] ![Pushin P][gif] ![Pushin P][gif] ![Pushin P][gif] ![Pushin P][gif] ![Pushin P][gif] ![Pushin P][gif] ![Pushin P][gif] ![Pushin P][gif] ![Pushin P][gif] ![Pushin P][gif] ![Pushin P][gif] ![Pushin P][gif] ![Pushin P][gif] ![Pushin P][gif] ![Pushin P][gif] ![Pushin P][gif] ![Pushin P][gif] ![Pushin P][gif] ![Pushin P][gif] ![Pushin P][gif] ![Pushin P][gif]
+## ![Coding][gif] ![Coding][gif] ![Coding][gif] ![Coding][gif] ![Coding][gif] ![Coding][gif] ![Coding][gif] ![Coding][gif] ![Coding][gif] ![Coding][gif] ![Coding][gif] ![Coding][gif] ![Coding][gif] ![Coding][gif] ![Coding][gif] ![Coding][gif] ![Coding][gif] ![Coding][gif] ![Coding][gif] ![Coding][gif] ![Coding][gif] ![Coding][gif] ![Coding][gif] ![Coding][gif] ![Coding][gif] ![Coding][gif]
 
-[gif]: https://cdn.discordapp.com/emojis/745354525958996138.gif?v=1 "Pushin P"
+[gif]: https://emoji.gg/assets/emoji/8633-pepe-hack.gif "Coding"
